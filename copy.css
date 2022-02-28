@@ -94,10 +94,6 @@ About
 #about li:first-child {
   margin-bottom: 30px;
 }
-#about p {
-  text-align:justify;
-  text-align: center;
-}
 
 .history{
     text-align:left;
