@@ -99,16 +99,21 @@ About
   text-align: center;
 }
 
+.history{
+    padding: 1rem 2rem;
+    border: 4px solid #000;
+}
+
 /*-------------------------------------------
-Works
+Members
 -------------------------------------------*/
-#works ul {
+#members ul {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   margin-bottom: 50px;
 }
-#works li {
+#members li {
   width: 31%;
   margin-bottom: 23px;
 }
@@ -187,12 +192,12 @@ SP
   }
 
   /*-------------------------------------------
-  Works
+  Members
   -------------------------------------------*/
-  #works ul {
+  #members ul {
     flex-direction: column;
   }
-  #works li {
+  #members li {
     width: 100%;
   }
 
